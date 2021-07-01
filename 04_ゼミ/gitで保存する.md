@@ -2,6 +2,6 @@
 
 ```bash
 git add .
-git commit -m "内容"
+git commit -m "内容の変更"
 git push origin master
 ```
