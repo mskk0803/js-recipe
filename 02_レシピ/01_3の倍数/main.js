@@ -9,7 +9,7 @@ const genkiFunction = function(number) {
 }
 
 const FizzBuzz = function(num){
-  for (let x = 1; x <= num n++){
+  for (let x = 1; x <= num x++){
     if (x % 3 === 0) {
       console.log(x + "FIzz")
     }else if (x % 5 === 0 ){
