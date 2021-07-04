@@ -15,7 +15,7 @@ const FizzBuzz = function(num) {
     } else if (x % 5 === 0) {
       console.log("Buzz")
     } else if (x % 3 === 0) {
-      console.log("zz")
+      console.log("Fizz")
     } else {
       console.log(x)
     }
