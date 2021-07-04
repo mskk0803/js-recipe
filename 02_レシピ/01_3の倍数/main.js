@@ -23,3 +23,15 @@ const Fizzbuzz = function(number) {
 }
 
 Fizzbuzz(100)
+
+const threelove = function(number) {
+  for (let s = 1; s <= number; s++) {
+    let n = String(s)
+    if (n.match(/3/)) {
+      console.log(s + "!!!!!!!!!")
+    } else {
+      console.log(s)
+    }
+  }
+}
+threelove(100)
